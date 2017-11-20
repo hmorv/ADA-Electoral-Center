@@ -1,0 +1,2 @@
+Los códigos fuentes son un programa para crear ficheros de datos.
+Los ficheros sin extensión son los iconos.

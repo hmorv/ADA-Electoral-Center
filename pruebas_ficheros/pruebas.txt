@@ -1,0 +1,2 @@
+Se adjuntan los ficheros creados y los mismos con los resultados generados.
+En la carpeta web están los datos originales de las elecciones.

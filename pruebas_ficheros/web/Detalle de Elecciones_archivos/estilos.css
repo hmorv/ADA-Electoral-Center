@@ -1,0 +1,120 @@
+BODY {
+	BACKGROUND-COLOR: rgb(255,255,255)
+}
+.FondoPagina {
+	BACKGROUND: rgb(255,255,255)
+}
+.fondomenu {
+	BACKGROUND: rgb(255,255,255)
+}
+.fondoceldaopciones {
+	BACKGROUND: rgb(102,102,102)
+}
+.fondoopcionesmenu {
+	BACKGROUND: rgb(149,149,149)
+}
+.separacionopcionesmenu {
+	BACKGROUND: rgb(255,255,255)
+}
+.fondocabecera {
+	BACKGROUND: rgb(254,213,95)
+}
+.FondoTablaDetalle {
+	BACKGROUND: rgb(237,238,236)
+}
+.FuenteTablaDetalle {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(50,55,50); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteTablaDetalleValor {
+	FONT-SIZE: 9pt; COLOR: rgb(50,55,50); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.fondotitulotabladetalle {
+	BACKGROUND: rgb(64,126,199)
+}
+.FuenteTituloTablaDetalle {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FondoTituloCandidaturas {
+	BACKGROUND: rgb(64,126,199)
+}
+.FondoCandidaturasImpares {
+	BACKGROUND: rgb(204,204,204)
+}
+.FondoCandidaturasPares {
+	BACKGROUND: rgb(255,255,255)
+}
+.FuenteTituloTablaCandidaturas {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteDatoTablaCandidaturas {
+	FONT-SIZE: 9pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.fondocabeceramenu {
+	BACKGROUND: rgb(255,255,255)
+}
+.barraseparacionmenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Verdana
+}
+.cabeceramenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Verdana
+}
+.fondodatoform {
+	BACKGROUND-COLOR: #ffffff
+}
+.FondoPaginaBusquedaMunicipios {
+	BACKGROUND: rgb(255,255,255)
+}
+.TablaCabeceraPaginaBusquedaMunicipios {
+	BACKGROUND: rgb(64,126,199)
+}
+.FuenteCabeceraPaginaBusquedaMunicipios {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteParrafoPaginaBusquedaMunicipios {
+	FONT-SIZE: 9pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteFormularioPaginaBusquedaMunicipios {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FondoPaginaListadoMunicipios {
+	BACKGROUND: rgb(255,255,255)
+}
+.TablaCabeceraPaginaListaMunicipios {
+	BACKGROUND: rgb(153,153,153)
+}
+.FondoTablaDetalleListaMunicipios {
+	BACKGROUND: rgb(64,126,199)
+}
+.FuenteCabeceraPaginaListaMunicipios {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteParrafoPaginaListaMunicipios {
+	FONT-SIZE: 9pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteTituloListadoLocalidades {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteDatosListadoLocalidades {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.fondotablalistalocalidades {
+	BACKGROUND: rgb(200,200,200)
+}
+.FondoTituloTablaListaElecciones {
+	BACKGROUND: rgb(64,126,199)
+}
+.FondoDatosTablaListaElecciones {
+	BACKGROUND: rgb(237,238,236)
+}
+.FuenteTituloListaElecciones {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteTituloTablaListaElecciones {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: rgb(255,255,255); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuenteDatoTablaListaElecciones {
+	FONT-SIZE: 10pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.FuentePiePagina {
+	FONT-SIZE: 10pt; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica, sans-serif
+}

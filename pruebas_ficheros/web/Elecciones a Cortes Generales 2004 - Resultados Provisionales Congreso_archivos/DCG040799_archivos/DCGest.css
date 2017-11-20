@@ -1,0 +1,606 @@
+.t1 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.t1m {
+	FONT-FAMILY: verdana,sans-serif
+}
+.t1c {
+	FONT-FAMILY: verdana,sans-serif
+}
+.t1r {
+	FONT-FAMILY: verdana,sans-serif
+}
+.t2 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.t6 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.t7 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.v1 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.v1r {
+	FONT-FAMILY: verdana,sans-serif
+}
+.v1c {
+	FONT-FAMILY: verdana,sans-serif
+}
+.v2 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1r {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d1 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d1l2 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d1r {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d1rP {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d1l {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d2r {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d2rP {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d2l {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d3P {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1pe {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1p {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1p2 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1rp {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r2rp {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r3rp {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r4rp {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1rpb {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r2rpb {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r3rpb {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1rpflecha {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r2rpflecha {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r3rpflecha {
+	FONT-FAMILY: verdana,sans-serif
+}
+.d2lres {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1rp3 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.r1rp4 {
+	FONT-FAMILY: verdana,sans-serif
+}
+.t4 {
+	FONT-FAMILY: Arial,sans-serif
+}
+.le {
+	FONT-FAMILY: Arial,sans-serif
+}
+.t1 {
+	FONT-SIZE: 10pt
+}
+.t1m {
+	FONT-SIZE: 10pt
+}
+.t1c {
+	FONT-SIZE: 10pt
+}
+.t1r {
+	FONT-SIZE: 10pt
+}
+.r1 {
+	FONT-SIZE: 10pt
+}
+.r1r {
+	FONT-SIZE: 10pt
+}
+.t7 {
+	FONT-SIZE: 10pt
+}
+.r1pe {
+	FONT-SIZE: 10pt
+}
+.r1p {
+	FONT-SIZE: 10pt
+}
+.r1p2 {
+	FONT-SIZE: 10pt
+}
+.r1rp {
+	FONT-SIZE: 10pt
+}
+.r2rp {
+	FONT-SIZE: 10pt
+}
+.r3rp {
+	FONT-SIZE: 10pt
+}
+.r4rp {
+	FONT-SIZE: 10pt
+}
+.r1rpb {
+	FONT-SIZE: 10pt
+}
+.r2rpb {
+	FONT-SIZE: 10pt
+}
+.r3rpb {
+	FONT-SIZE: 10pt
+}
+.r1rpflecha {
+	FONT-SIZE: 10pt
+}
+.r2rpflecha {
+	FONT-SIZE: 10pt
+}
+.r3rpflecha {
+	FONT-SIZE: 10pt
+}
+.r1rp3 {
+	FONT-SIZE: 10pt
+}
+.r1rp4 {
+	FONT-SIZE: 10pt
+}
+.v1 {
+	FONT-SIZE: 9pt
+}
+.v1r {
+	FONT-SIZE: 9pt
+}
+.v1c {
+	FONT-SIZE: 9pt
+}
+.v2 {
+	FONT-SIZE: 9pt
+}
+.d1 {
+	FONT-SIZE: 9pt
+}
+.d1l2 {
+	FONT-SIZE: 9pt
+}
+.d1r {
+	FONT-SIZE: 9pt
+}
+.d1rP {
+	FONT-SIZE: 9pt
+}
+.d1l {
+	FONT-SIZE: 9pt
+}
+.d2r {
+	FONT-SIZE: 9pt
+}
+.d2rP {
+	FONT-SIZE: 9pt
+}
+.d2l {
+	FONT-SIZE: 9pt
+}
+.d3P {
+	FONT-SIZE: 9pt
+}
+.d2lres {
+	FONT-SIZE: 9pt
+}
+.t2 {
+	FONT-SIZE: 7pt
+}
+.t6 {
+	FONT-SIZE: 8pt
+}
+.t4 {
+	FONT-SIZE: 14px
+}
+.le {
+	FONT-SIZE: 1pt
+}
+.t2 {
+	FONT-WEIGHT: bold
+}
+.t6 {
+	FONT-WEIGHT: bold
+}
+.t7 {
+	FONT-WEIGHT: bold
+}
+.r1p {
+	FONT-WEIGHT: bold
+}
+.r1rpb {
+	FONT-WEIGHT: bold
+}
+.r2rpb {
+	FONT-WEIGHT: bold
+}
+.r3rpb {
+	FONT-WEIGHT: bold
+}
+.t1c {
+	TEXT-ALIGN: center
+}
+.v1r {
+	TEXT-ALIGN: center
+}
+.v1c {
+	TEXT-ALIGN: center
+}
+.d1 {
+	TEXT-ALIGN: center
+}
+.t1r {
+	TEXT-ALIGN: right
+}
+.t2 {
+	TEXT-ALIGN: right
+}
+.v2 {
+	TEXT-ALIGN: right
+}
+.r1r {
+	TEXT-ALIGN: right
+}
+.d1r {
+	TEXT-ALIGN: right
+}
+.d1rP {
+	TEXT-ALIGN: right
+}
+.d2r {
+	TEXT-ALIGN: right
+}
+.d2rP {
+	TEXT-ALIGN: right
+}
+.d3P {
+	TEXT-ALIGN: right
+}
+.r1pe {
+	TEXT-ALIGN: right
+}
+.r1rp {
+	TEXT-ALIGN: right
+}
+.r2rp {
+	TEXT-ALIGN: right
+}
+.r3rp {
+	TEXT-ALIGN: right
+}
+.r4rp {
+	TEXT-ALIGN: right
+}
+.r1rpb {
+	TEXT-ALIGN: right
+}
+.r2rpb {
+	TEXT-ALIGN: right
+}
+.r3rpb {
+	TEXT-ALIGN: right
+}
+.r1rpflecha {
+	TEXT-ALIGN: right
+}
+.r2rpflecha {
+	TEXT-ALIGN: right
+}
+.r3rpflecha {
+	TEXT-ALIGN: right
+}
+.r1rp3 {
+	TEXT-ALIGN: right
+}
+.r1rp4 {
+	TEXT-ALIGN: right
+}
+.t1m {
+	TEXT-INDENT: 20px
+}
+.d1l2 {
+	TEXT-INDENT: 20px
+}
+.d1l {
+	TEXT-INDENT: 20px
+}
+.d2l {
+	TEXT-INDENT: 16px
+}
+.r1p {
+	TEXT-INDENT: 8px
+}
+.r1p2 {
+	TEXT-INDENT: 8px
+}
+.d2lres {
+	TEXT-INDENT: 73px
+}
+.t6 {
+	TEXT-DECORATION: none
+}
+.t7 {
+	TEXT-DECORATION: none
+}
+.v1r {
+	HEIGHT: 22px
+}
+.v2 {
+	HEIGHT: 20px
+}
+.d1 {
+	HEIGHT: 20px
+}
+.d1l2 {
+	HEIGHT: 20px
+}
+.d1l {
+	HEIGHT: 20px
+}
+.d2l {
+	HEIGHT: 20px
+}
+.d2lres {
+	HEIGHT: 20px
+}
+.lg {
+	HEIGHT: 1px
+}
+.v1 {
+	BORDER-BOTTOM: 1px solid
+}
+.v1r {
+	BORDER-BOTTOM: 1px solid
+}
+.v1c {
+	BORDER-BOTTOM: 1px solid
+}
+.v2 {
+	BORDER-BOTTOM: 1px solid
+}
+.d1 {
+	BORDER-BOTTOM: 1px solid
+}
+.d1l2 {
+	BORDER-BOTTOM: 1px solid
+}
+.d1r {
+	BORDER-BOTTOM: 1px solid
+}
+.d1rP {
+	BORDER-BOTTOM: 1px solid
+}
+.d1l {
+	BORDER-BOTTOM: 1px solid
+}
+.d2r {
+	BORDER-BOTTOM: 1px solid
+}
+.d2rP {
+	BORDER-BOTTOM: 1px solid
+}
+.d2l {
+	BORDER-BOTTOM: 1px solid
+}
+.d3P {
+	BORDER-BOTTOM: 1px solid
+}
+.r1rp {
+	BORDER-BOTTOM: 1px solid
+}
+.r2rp {
+	BORDER-BOTTOM: 1px solid
+}
+.r1p2 {
+	BORDER-BOTTOM: 1px solid
+}
+.r3rp {
+	BORDER-BOTTOM: 1px solid
+}
+.r4rp {
+	BORDER-BOTTOM: 1px solid
+}
+.r1rpb {
+	BORDER-BOTTOM: 1px solid
+}
+.r2rpb {
+	BORDER-BOTTOM: 1px solid
+}
+.r3rpb {
+	BORDER-BOTTOM: 1px solid
+}
+.r1rpflecha {
+	BORDER-BOTTOM: 1px solid
+}
+.r2rpflecha {
+	BORDER-BOTTOM: 1px solid
+}
+.r3rpflecha {
+	BORDER-BOTTOM: 1px solid
+}
+.d2res {
+	BORDER-BOTTOM: 1px solid
+}
+.d2lres {
+	BORDER-BOTTOM: 1px solid
+}
+.v2 {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d1r {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d1rP {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d1l {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d2r {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d2rP {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d2l {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d3P {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r1p2 {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r1rp {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r2rp {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r3rp {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r4rp {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r2rpb {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r3rpb {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r1rpflecha {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r2rpflecha {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.r3rpflecha {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.d2lres {
+	BORDER-BOTTOM-COLOR: #c0c0c0
+}
+.v1 {
+	BORDER-BOTTOM-COLOR: #85c8f1
+}
+.v1r {
+	BORDER-BOTTOM-COLOR: #85c8f1
+}
+.v1c {
+	BORDER-BOTTOM-COLOR: #85c8f1
+}
+.d1 {
+	BORDER-BOTTOM-COLOR: #85c8f1
+}
+.d1l2 {
+	BORDER-BOTTOM-COLOR: #85c8f1
+}
+.r1rpflecha {
+	PADDING-RIGHT: 1px
+}
+.r2rpflecha {
+	PADDING-RIGHT: 1px
+}
+.r3rpflecha {
+	PADDING-RIGHT: 10px
+}
+.d2rP {
+	PADDING-RIGHT: 13px
+}
+.r1rp3 {
+	PADDING-RIGHT: 13px
+}
+.d2r {
+	PADDING-RIGHT: 14px
+}
+.d1rP {
+	PADDING-RIGHT: 25px
+}
+.r1rp4 {
+	PADDING-RIGHT: 25px
+}
+.r2rp {
+	PADDING-RIGHT: 35px
+}
+.r2rpb {
+	PADDING-RIGHT: 35px
+}
+.d1r {
+	PADDING-RIGHT: 38px
+}
+.r1pe {
+	PADDING-RIGHT: 40px
+}
+.r1rp {
+	PADDING-RIGHT: 45px
+}
+.r1rpb {
+	PADDING-RIGHT: 45px
+}
+.r3rp {
+	PADDING-RIGHT: 55px
+}
+.r3rpb {
+	PADDING-RIGHT: 55px
+}
+.r4rp {
+	PADDING-RIGHT: 65px
+}
+.lg {
+	BACKGROUND-COLOR: #c0c0c0
+}
+.t6 {
+	COLOR: #5141b1
+}
+.bpc {
+	COLOR: #ceefff
+}
+.bpo {
+	COLOR: #4aa5ff
+}
+.t7 {
+	COLOR: #4c418d
+}
